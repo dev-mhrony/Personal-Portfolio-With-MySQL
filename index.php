@@ -92,17 +92,16 @@ Linkdin        :  https://www.linkedin.com/in/dev-mhrony
           }
         ?>
 <!--
-  ---------------------------------------------------------------
+---------------------------------------------------------------
 
-/*
 Template       :  Code Camp BD - Meditach
 Author         :  MH RONY
 GitHub         :  https://github.com/dev-mhrony
 Facebook       :  https://facebook.com/dev.mhrony
 Website        :  https://developerrony.com
 Linkdin        :  https://www.linkedin.com/in/dev-mhrony
-*/
-  ---------------------------------------------------------------
+
+--------------------------------------------------------------
 -->
         <?php   
           if($data['facebook']){
