@@ -25,10 +25,10 @@ Linkdin        :  https://www.linkedin.com/in/dev-mhrony
 
   <title><?=$data['name']?> - <?=$data['title']?></title>
   <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="" name="Code Camp BD">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/me.jpg" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
