@@ -5,19 +5,19 @@
 ## Image Preview
 
 #### Home Page
-<img src="home.png">
+<img src="screen/home.png">
 
 #### About Page
-<img src="about.png">
+<img src="screen/about.png">
 
 #### Resume Page
-<img src="resume.png">
+<img src="screen/resume.png">
 
 #### Service Page
-<img src="service.png">
+<img src="screen/service.png">
 
 #### Protfolio Page
-<img src="protfolio.png">
+<img src="screen/protfolio.png">
 
 #### Contact Page
-<img src="contact.png">
+<img src="screen/contact.png">
